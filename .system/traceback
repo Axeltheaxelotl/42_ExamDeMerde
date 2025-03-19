@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        🔎 YOUR OUTPUT:
+gcc: error: microshell/microshell.c: No such file or directory
+gcc: fatal error: no input files
+compilation terminated.
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
